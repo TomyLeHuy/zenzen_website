@@ -1,0 +1,649 @@
+{
+  "Vorspeisen": {
+    "1": {
+      "name": "Vegetarische Mini Frühlingsrollen (8 Stück)",
+      "price": "4,50 €"
+    },
+    "2": {
+      "name": "Springrolls Nem Chiên (4 Stück)",
+      "description": "Vietnamesische Frühlingsrollen gefüllt mit Garnelen, Hähnchen und Gemüse, serviert mit hausgemachtem Limetten-Chili-Dip",
+      "price": "6,00 €"
+    },
+    "3a": {
+      "name": "Almost Nude Gỏi Cuốn mit Tofu",
+      "description": "Vietnamesische Sommerrollen gefüllt mit Salat, Reisnudeln, gerösteten Erdnüssen, serviert mit einer leichten hausgemachten Limetten-Vinaigrette",
+      "price": "5,00 €"
+    },
+    "3b": {
+      "name": "Almost Nude Gỏi Cuốn mit Hühnerfleisch",
+      "description": "Vietnamesische Sommerrollen gefüllt mit Salat, Reisnudeln, gerösteten Erdnüssen, serviert mit einer leichten hausgemachten Limetten-Vinaigrette",
+      "price": "5,50 €"
+    },
+    "3c": {
+      "name": "Almost Nude Gỏi Cuốn mit Tempura Garnelen",
+      "description": "Vietnamesische Sommerrollen gefüllt mit Salat, Reisnudeln, gerösteten Erdnüssen, serviert mit einer leichten hausgemachten Limetten-Vinaigrette",
+      "price": "6,00 €"
+    },
+    "4": {
+      "name": "Edamame Đậu Luộc",
+      "description": "Baby Sojabohnen",
+      "price": "5,50 €"
+    },
+    "5": {
+      "name": "Smoky Sate",
+      "description": "gegrillte Hühnerspieße mit Erdnuss Soße",
+      "price": "5,50 €"
+    },
+    "6": {
+      "name": "Wakame Seetang Salat",
+      "description": "Seetang-Salat, Salsa Roja, Sesam und hausgemachtes Sesamdressing",
+      "price": "6,00 €"
+    },
+    "6a": {
+      "name": "Wakame mit Lachs",
+      "description": "Seetang-Salat serviert mit Lachs, Salsa Roja, Sesam und hausgemachtem Sesamdressing",
+      "price": "7,50 €"
+    },
+    "6b": {
+      "name": "Wakame mit Thunfisch",
+      "description": "Seetang-Salat serviert mit Thunfisch, Salsa Roja, Sesam und hausgemachtem Sesamdressing",
+      "price": "8,50 €"
+    },
+    "7": {
+      "name": "Nộm Xoài Mango Salat",
+      "description": "Mango Salat serviert mit Erdnüssen, Röstzwiebeln und Hühnerfleisch",
+      "price": "8,00 €"
+    },
+    "8": {
+      "name": "Prawns in Silk Ha Cao",
+      "description": "Teigtaschen aus Reismehl mit gehackten Garnelen und Gemüse",
+      "price": "5,00 €"
+    }
+  },
+  "Suppen": {
+    "9": {
+      "name": "Catch the fish Canh Chua",
+      "description": "Suppe mit Lachs, Großgarnelen, Cherry Tomaten, Champignons, Lauchzwiebeln und Dill",
+      "price": "5,50 €"
+    },
+    "10": {
+      "name": "Coco Loves Soup (mit Tofu)",
+      "description": "Suppe mit Kokosmilch, Cherry Tomaten, Champignons und Tofu",
+      "price": "4,50 €"
+    },
+    "11": {
+      "name": "Coco Loves Soup (mit Hühnerfleisch)",
+      "description": "Suppe mit Kokosmilch, Cherry Tomaten, Champignons und Hühnerfleisch",
+      "price": "5,00 €"
+    },
+    "12": {
+      "name": "Coco Loves Soup (mit Riesengarnelen)",
+      "description": "Suppe mit Kokosmilch, Cherry Tomaten, Champignons und Riesengarnelen",
+      "price": "6,00 €"
+    }
+  },
+  "Udon Nudeln (NEU-NEU-NEU) - Gerichte": {
+    "13": {
+      "name": "Udon Nudeln mit Hähnchenfleisch",
+      "description": "mit verschiedenen Gemüsesorten und Unagi-Soße",
+      "price": "14,00 €"
+    },
+    "14": {
+      "name": "Udon Nudeln mit Rindfleisch",
+      "description": "mit verschiedenen Gemüsesorten und Unagi-Soße",
+      "price": "15,50 €"
+    },
+    "15": {
+      "name": "Udon Nudeln mit gegrillter Ente",
+      "description": "mit verschiedenen Gemüsesorten und Unagi-Soße",
+      "price": "17,00 €"
+    },
+    "16": {
+      "name": "Udon Nudeln mit Lachsfilet",
+      "description": "mit verschiedenen Gemüsesorten und Unagi-Soße",
+      "price": "19,00 €"
+    },
+    "17": {
+      "name": "Udon Nudeln mit Garnelen",
+      "description": "mit verschiedenen Gemüsesorten und Unagi-Soße",
+      "price": "16,00 €"
+    },
+    "18": {
+      "name": "Udon Nudeln mit Tofu",
+      "description": "mit verschiedenen Gemüsesorten und Unagi-Soße",
+      "price": "12,00 €"
+    }
+  },
+  "Gebr. Reis & Nudeln Gerichte": {
+    "20": {
+      "name": "Gebratener Reis mit Hühnerfleisch",
+      "description": "mit verschiedenen Gemüsesorten",
+      "price": "11,00 €"
+    },
+    "21": {
+      "name": "Gebratener Reis mit Rindfleisch",
+      "description": "mit verschiedenen Gemüsesorten",
+      "price": "12,50 €"
+    },
+    "22": {
+      "name": "Gebratener Reis mit knuspriger Ente und pikanter Soße",
+      "description": "mit verschiedenen Gemüsesorten",
+      "price": "14,50 €"
+    },
+    "23": {
+      "name": "Gebratene Nudeln mit Hühnerfleisch",
+      "description": "mit verschiedenen Gemüsesorten",
+      "price": "11,00 €"
+    },
+    "24": {
+      "name": "Gebratene Nuldeln mit Rindfleisch",
+      "description": "mit verschiedenen Gemüsesorten",
+      "price": "12,50 €"
+    },
+    "25": {
+      "name": "Gebratene Nudeln mit knuspriger Ente und pikanter Soße",
+      "description": "mit verschiedenen Gemüsesorten",
+      "price": "14,50 €"
+    }
+  },
+  "Für Kinder": {
+    "26": {
+      "name": "Childhood 1",
+      "description": "Frittierte Pommes mit hausgemachten Chicken-Crispies. Serviert mit Mayonnaise.",
+      "price": "8,00 €"
+    },
+    "27": {
+      "name": "Childhood 2",
+      "description": "Gebratener Reis, dazu Chicken-Crispies, Chili sauce.",
+      "price": "8,00 €"
+    }
+  },
+  "Hühnerfleisch Gerichte": {
+    "30": {
+      "name": "Hühnerfleisch mit Mango-Süßsauer-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "12,00 €"
+    },
+    "31": {
+      "name": "Hühnerfleisch in Chop Suey-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "12,00 €"
+    },
+    "32": {
+      "name": "Hühnerfleisch mit 8 Kostbarkeiten, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "12,00 €"
+    },
+    "33": {
+      "name": "Hühnerfleisch in Erdnusssoße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "12,00 €"
+    },
+    "34": {
+      "name": "Hühnerfleisch in Thai-Massaman-Curry u. Kokosmilch, leicht scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "12,00 €"
+    },
+    "35": {
+      "name": "Hühnerfleisch in rotem Thai-Curry und Kokosmilch, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "12,00 €"
+    }
+  },
+  "Rindfleisch Gerichte": {
+    "41": {
+      "name": "Rindfleisch in Chop Suey-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "14,00 €"
+    },
+    "42": {
+      "name": "Rindfleisch mit 8 Kostbarkeiten, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "14,00 €"
+    },
+    "43": {
+      "name": "Rindfleisch in Erdnusssoße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "14,00 €"
+    },
+    "44": {
+      "name": "Rindfleisch in Thai-Massaman-Curry u. Kokosmilch, leicht scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "14,00 €"
+    },
+    "45": {
+      "name": "Rindfleisch in rotem Thai-Curry und Kokosmilch, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "14,00 €"
+    }
+  },
+  "Enten Gerichte": {
+    "50": {
+      "name": "Knusprige Ente mit Mango-Süßsauer-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "51": {
+      "name": "Knusprige Ente in Chop Suey-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "52": {
+      "name": "Knusprige Ente mit 8 Kostbarkeiten, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "53": {
+      "name": "Knusprige Ente in Erdnusssoße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "54": {
+      "name": "Knusprige Ente in Thai-Massaman-Curry und Kokosmilch, leicht scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "55": {
+      "name": "Knusprige Ente in rotem Thai-Curry und Kokosmilch, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    }
+  },
+  "Garnelen-Gerichte": {
+    "60": {
+      "name": "Garnelen mit Mango-Süßsauer-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "61": {
+      "name": "Garnelen mit Chop Suey",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "62": {
+      "name": "Garnelen mit 8 Kostbarkeiten, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "63": {
+      "name": "Garnelen in Erdnusssoße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "64": {
+      "name": "Garnelen in Thai-Massaman-Curry und Kokosmilch, leicht scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    },
+    "65": {
+      "name": "Garnelen in rotem Thai-Curry u. Kokosmilch, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "15,50 €"
+    }
+  },
+  "Panierte Hühnerfilet Gerichte": {
+    "70": {
+      "name": "Paniertes Hühnerfilet mit Mango-Süßsauer-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "13,00 €"
+    },
+    "71": {
+      "name": "Paniertes Hühnerfilet in Chop Suey-Soße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "13,00 €"
+    },
+    "72": {
+      "name": "Paniertes Hühnerfilet mit 8 Kostbarkeiten, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "13,00 €"
+    },
+    "73": {
+      "name": "Paniertes Hühnerfilet in Erdnusssoße",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "13,00 €"
+    },
+    "74": {
+      "name": "Paniertes Hühnerfilet in Thai-Massaman-Curry und Kokosmilch, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "13,00 €"
+    },
+    "75": {
+      "name": "Paniertes Hühnerfilet in rotem Thai-Curry und Kokosmilch, scharf",
+      "description": "mit verschiedenen Gemüsesorten und gekochtem Reis als Beilage",
+      "price": "13,00 €"
+    }
+  },
+  "ZENZEN Spezialitäten": {
+    "80": {
+      "name": "Acht Kostbarkeiten, leicht scharf",
+      "description": "Garnelen mit verschiedenen Fleischsorten",
+      "price": "15,00 €"
+    },
+    "81": {
+      "name": "Dschingis Khan Claypot, scharf",
+      "description": "Garnelen mit verschiedenen Fleischsorten",
+      "price": "15,00 €"
+    },
+    "82": {
+      "name": "Kuh Auf Der Weide",
+      "description": "Rindfleisch, medium gebraten, mit Saison Gemüse. Serviert, garniert mit Soja Balsamico und hausgemachtem Salsa Roja und Sesamreis als Beilage.",
+      "price": "16,00 €"
+    },
+    "83": {
+      "name": "Kamo Temptation",
+      "description": "Gegrillte Ente mit Saison Gemüse, abgeschmeckt mit Salsa Roja.",
+      "price": "17,00 €"
+    },
+    "84": {
+      "name": "Best Ocean",
+      "description": "Frischer roher Lachs, Thunfisch, gekochte Garnelen, Ebi Tempura auf warmen Sushi Reis.",
+      "price": "18,00 €"
+    },
+    "85": {
+      "name": "Maguro Power",
+      "description": "Thunfisch in einer japanischen Gewürzkrusten kurz gegrillt mit Sesamreis und Salsa Roja.",
+      "price": "19,00 €"
+    },
+    "86": {
+      "name": "Sweet Salmon",
+      "description": "Lachs gegrillt mit Saisongemüse gebraten in Soja-Unagi Dressing, serviert mit Sesamreis und Salsa Roja.",
+      "price": "19,00 €"
+    },
+    "87": {
+      "name": "Surf and Turf",
+      "description": "gegrilltes Rind medium und Großgarnelen gebraten mit Saisongemüse, Salsa Roja und Sesamreis.",
+      "price": "19,00 €"
+    }
+  },
+  "Sushi": {
+    "Nigiri Sushi": {
+      "N1": {
+        "name": "Maguro Thunfisch",
+        "price": "4,50 €"
+      },
+      "N2": {
+        "name": "Aburi Maguro Thunfisch flambiert",
+        "price": "5,00 €"
+      },
+      "N3": {
+        "name": "Sake Lachs",
+        "price": "4,00 €"
+      },
+      "N4": {
+        "name": "Aburi Sake Lachs flambiert",
+        "price": "4,50 €"
+      },
+      "N5": {
+        "name": "Ebi eingelegte Garnelen",
+        "price": "4,50 €"
+      },
+      "N6": {
+        "name": "Anago Salzwasseraal gegrillt",
+        "price": "5,00 €"
+      },
+      "N7": {
+        "name": "Kani Surimi",
+        "price": "4,00 €"
+      },
+      "N8": {
+        "name": "Vegie mit Avocado",
+        "price": "4,00 €"
+      }
+    },
+    "Maki Sushi": {
+      "M11": {
+        "name": "Tekka Thunfisch",
+        "price": "5,00 €"
+      },
+      "M12": {
+        "name": "Sake Lachs",
+        "price": "4,50 €"
+      },
+      "M13": {
+        "name": "Ebi eingelegte Garnelen",
+        "price": "4,50 €"
+      },
+      "M14": {
+        "name": "Fry Ebi gebackene Garnelen",
+        "price": "5,50 €"
+      },
+      "M15": {
+        "name": "Anago Salzwasseraal gegrillt",
+        "price": "5,50 €"
+      },
+      "M16": {
+        "name": "Salmonskin Lachshaut gebacken",
+        "price": "4,50 €"
+      },
+      "M17": {
+        "name": "Chicken Maki",
+        "price": "4,50 €"
+      },
+      "M18": {
+        "name": "Avocado",
+        "price": "4,00 €"
+      },
+      "M19": {
+        "name": "Kappa Gurke",
+        "price": "3,50 €"
+      }
+    },
+    "Inside out roll Sushi": {
+      "U21": {
+        "name": "Maguro",
+        "description": "Thunfisch, Avocado und Tobiko",
+        "price": "8,50 €"
+      },
+      "U22": {
+        "name": "Alaska",
+        "description": "Lachs, Avocado und Tobiko",
+        "price": "8,00 €"
+      },
+      "U23": {
+        "name": "Ebi Tempura",
+        "description": "gebackene Garnelen, Avocado, Mayonnaise-Unagi-Soße und Sesam",
+        "price": "8,50 €"
+      },
+      "U24": {
+        "name": "Anago",
+        "description": "Salzwasseraal, Gurke, Mayonnaise-Unagi-Soße und Sesam",
+        "price": "8,50 €"
+      },
+      "U25": {
+        "name": "Salmonskin",
+        "description": "Lachshaut gegrillt, Gurke, Mayonnaise-Unagi-Soße und Sesam",
+        "price": "8,00 €"
+      },
+      "U26": {
+        "name": "Chicken Tempura Roll",
+        "description": "Tempura Chicken, Avocado, Mayonnaise-Unagi-Soße und Sesam",
+        "price": "8,50 €"
+      },
+      "U27": {
+        "name": "Ente",
+        "description": "mit Gurke und Pflaumensauce",
+        "price": "8,50 €"
+      },
+      "U28": {
+        "name": "California",
+        "description": "Surimi, Avocado und Tobiko",
+        "price": "8,00 €"
+      },
+      "U29": {
+        "name": "Veggie",
+        "description": "Avocado, Gurke, Mango, Sesam",
+        "price": "8,00 €"
+      }
+    },
+    "Tempura rolls Sushi": {
+      "T31": {
+        "name": "Tunacado",
+        "description": "Thunfisch, Avocado, Philadelphia",
+        "price": "13,00 €"
+      },
+      "T32": {
+        "name": "Crunchy Salmon",
+        "description": "Lachs, Avocado, Philadelphia",
+        "price": "12,50 €"
+      },
+      "T33": {
+        "name": "Fly Ebi Crunch",
+        "description": "Tempura Garnelen, Avocado, Philadelphia",
+        "price": "13,00 €"
+      },
+      "T34": {
+        "name": "Crunchy Chicken",
+        "description": "Frittiertes Hähnchenfleisch, Gurke, Philadelphia",
+        "price": "13,00 €"
+      },
+      "T35": {
+        "name": "Crunchy Ente",
+        "description": "Frittierte Ente, Gurke, Pflaumensauce",
+        "price": "12,50 €"
+      },
+      "T36": {
+        "name": "Crunchy Vegie",
+        "description": "Avocado, Gurke, Mango",
+        "price": "10,00 €"
+      }
+    },
+    "Sashimi": {
+      "S41": {
+        "name": "Sashimi Tuna",
+        "description": "8 Scheiben Thunfisch auf Seetang Salat, Avocado",
+        "price": "15,00 €"
+      },
+      "S42": {
+        "name": "Aburi Tuna",
+        "description": "8 Scheiben Thunfisch flambiert auf Seetang Salat, Avocado",
+        "price": "15,50 €"
+      },
+      "S43": {
+        "name": "Sashimi Salmon",
+        "description": "8 Scheiben Lachs auf Seetang Salat, Avocado",
+        "price": "14,00 €"
+      },
+      "S44": {
+        "name": "Aburi Salmon",
+        "description": "8 Scheiben Lachs flambiert auf Seetang Salat, Avocado",
+        "price": "14,50 €"
+      }
+    },
+    "Special homemade Sushi": {
+      "H51": {
+        "name": "Crispy Tiger",
+        "description": "Garnelen im Tempuramantel, Mango, Avocado, Philadelphia, bedeckt mit Feuerlachs",
+        "price": "12,00 €"
+      },
+      "H52": {
+        "name": "Sizzling Temptation",
+        "description": "Avocado, Gurke, Mango, Philadelphia und Lachsmantel",
+        "price": "11,50 €"
+      },
+      "H53": {
+        "name": "Sake Fancy",
+        "description": "Philadelphia, Mango, Lachshaut ummantelt mit Lachs, Tobiko",
+        "price": "12,00 €"
+      },
+      "H54": {
+        "name": "Mama Ebi",
+        "description": "Gegrillte Lachshaut, Mango, Avocado, Philadelphia mit Großgarnelen umwickelt",
+        "price": "12,00 €"
+      },
+      "H55": {
+        "name": "Balzing Tuna",
+        "description": "Surimi, Mango, Philadelphia, ummantelt mit Feuerthunfisch",
+        "price": "12,00 €"
+      },
+      "H56": {
+        "name": "Futo Maki",
+        "description": "5 Stück gefüllt mit Lachs, Thunfisch, Mango, Avocado, Gurke und Tobiko",
+        "price": "8,50 €"
+      },
+      "H57": {
+        "name": "Avocado Rainbow Roll",
+        "description": "Avocado, Philadelphia",
+        "price": "9,50 €"
+      },
+      "H58": {
+        "name": "ZenZen Roll",
+        "description": "Kreative Kreation Unserer Sushi Chefs",
+        "price": "12,00 €"
+      }
+    }
+  },
+  "ZENZEN SUSHI MENÜ": {
+    "Z1": {
+      "name": "Maki Mix",
+      "description": "8 Stk. Salmon Maki, 8 Stk. Tuna Maki, 8 Stk. Avocado Maki",
+      "price": "11,50 €"
+    },
+    "Z2": {
+      "name": "Sake Tsunami",
+      "description": "8 Stk. Salmon Maki, 4 Stk. Salmon Nigiri, 4 Stk. Sashimi",
+      "price": "15,00 €"
+    },
+    "Z3": {
+      "name": "Crispy Rocket",
+      "description": "8 Stk. Salmon Crunchy Roll, 2 Stk. Nigiri Lachs, 2 Stk. Nigiri Thunfisch",
+      "price": "17,00 €"
+    },
+    "Z4": {
+      "name": "Blazing Love",
+      "description": "8 Stk. Crispy Tiger, 2 Stk. Nigiri Lachs, 2 Stk. Nigiri Garnelen",
+      "price": "17,00 €"
+    },
+    "Z5": {
+      "name": "Kamasutra (2 Personen)",
+      "description": "ZenZen Special Roll, Salmon Crunchy Roll, Kappa Maki, Seaweed salad, 2 Stk. Nigiri Lachs, 2 Stk. Nigiri Thunfisch",
+      "price": "37,00 €"
+    },
+    "Z6": {
+      "name": "Robu Invasion (für 2 Personen)",
+      "description": "ZenZen Special Roll, Alaska Roll, Sake Maki, Kappa Maki, Tuna Tempura, Seaweed salad, 6 Stk. Nigiri (Thunfisch, Lachs, Garnelen)",
+      "price": "48,00 €"
+    },
+    "Z7": {
+      "name": "Fancy Goods (für 2 Personen)",
+      "description": "2 Stk. Nigiri Thunfisch, 2 Stk. Nigiri Garnelen, 4 Stk. Sashimi Lachs, Crunchy Salmon, Crispy Tiger",
+      "price": "36,00 €"
+    },
+    "Z8": {
+      "name": "Veggie",
+      "description": "8 Stk. Kappa Maki (Gurke), 8 Stk. Avocado Maki, 8 Stk. Mango Maki",
+      "price": "10,50 €"
+    }
+  },
+  "Tempura_rolls Sushi (5 Stück)": {
+    "T37": {
+      "name": "Tunacado",
+      "description": "Thunfisch, Avocado, Philadelphia",
+      "price": "7,50 €"
+    },
+    "T38": {
+      "name": "Crunchy Salmon",
+      "description": "Lachs, Avocado, Philadelphia",
+      "price": "7,00 €"
+    },
+    "T39": {
+      "name": "Fly Ebi Crunch",
+      "description": "Tempura Garnelen, Avocado, Philadelphia",
+      "price": "7,50 €"
+    },
+    "T40": {
+      "name": "Crunchy Chicken",
+      "description": "Frittiertes Hähnchenfleisch, Gurke, Philadelphia",
+      "price": "7,50 €"
+    },
+    "T41": {
+      "name": "Crunchy Ente",
+      "description": "Frittierte Ente, Gurke, Pflaumensauce",
+      "price": "7,00 €"
+    },
+    "T42": {
+      "name": "Crunchy Vegie",
+      "description": "Avocado, Gurke, Mango",
+      "price": "6,00 €"
+    }
+  }
+}
